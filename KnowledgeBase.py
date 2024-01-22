@@ -9,6 +9,8 @@ knowledge_base = {
     'Active Directory User Lookup': 'Right click users, select find option, enter the NetID of the desired user you wish lookup',
     'Active Directory General Info': 'Active Directory AD is your domain account at the University, used to log in to Windows workstations, the UR_Connected wireless network, Office 365, SharePoint, Blackboard, and other applications. AD accounts are automatically provisioned upon joining the University.',
     'Reset Password': 'Go to myidentity.rochester.edu, tell customer to answer security question to change password. Remind customer to press select all option to uniformly change passwords for all AD accounts.',
+    'ANY ERECORD ISSUE': 'Transfer to ISD unless some kind of AD ISSUE',
+    
     # Add more issues and solutions as needed
 }
 
