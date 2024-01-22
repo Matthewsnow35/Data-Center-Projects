@@ -6,6 +6,7 @@ knowledge_base = {
     'Phone Change, Add a phone etc.': 'Have them visit tech.rochester.edu and select Submit Service Request. An FAO number is needed to fill out the form. They will need to get that from their department. ',
     'Network Drop': ' Go to tech.rochester.edu, Submit Service Request -> Select Phone',
     'CTS MOC phone escalation ': 'Get the customers information. Issue(s) with the phone: Phone type (color, # of buttons):Phone number to be repaired:Who needs the phone repaired:Location of the phone to be repaired (Address/Suite/Room #):Number of individuals impacted:Did the customer request urgent service (yes or no):If the situation is affecting patient care immediately escalate to the CTS MOC with this information in a ticket assigned to TriageIf the situation can wait to be resolved, create a ticket and assign to Triage. Does this line need to be forwarded (yes or no):If yes, which number should it forward to:Contact name (First and last):Contact #: (Not the phone that needs repair.)Make a ticket and escalated to either the CTS MOC or Triage depending on the urgency of the issue. DO NOT transfer phone issues to ISD Helpdesk. ',
+    'Active Directory User Lookup': 'Right click users, select find option, enter the NetID of the desired user you wish lookup',
     # Add more issues and solutions as needed
 }
 
